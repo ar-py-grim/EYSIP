@@ -1,0 +1,5 @@
+label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
+rect,253,130,110,65,gnd_truth_new_plain.jpeg,500,500
+rect,318,280,46,103,gnd_truth_new_plain.jpeg,500,500
+rect,150,273,49,103,gnd_truth_new_plain.jpeg,500,500
+cylinder,116,145,53,51,gnd_truth_new_plain.jpeg,500,500

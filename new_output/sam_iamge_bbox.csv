@@ -1,0 +1,5 @@
+label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
+rect,254,109,127,81,SAM_output.jpeg,502,502
+rect,332,291,49,114,SAM_output.jpeg,502,502
+rect,138,285,47,114,SAM_output.jpeg,502,502
+cylinder,108,135,55,56,SAM_output.jpeg,502,502

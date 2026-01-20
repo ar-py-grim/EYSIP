@@ -1,0 +1,5 @@
+label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
+rect,252,107,132,85,opencv_segmentation.jpeg,500,500
+rect,322,277,63,133,opencv_segmentation.jpeg,500,500
+rect,130,272,66,130,opencv_segmentation.jpeg,500,500
+cylinder,107,134,55,56,opencv_segmentation.jpeg,500,500
