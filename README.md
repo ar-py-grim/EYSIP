@@ -5,3 +5,5 @@ This repo contains the internship work done under EYSIP. We tried to create a li
 
 ## References
 https://github.com/facebookresearch/segment-anything </br>
+
+## Video Link: https://youtu.be/FQHsKAcKeto?si=UJXgqcVGnMv9-6OA
